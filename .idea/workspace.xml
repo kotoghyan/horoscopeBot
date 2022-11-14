@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21b9cefd-5b12-41e8-bd45-24a1e6186d1a" name="Default Changelist" comment="Change:Delete Token" />
+    <list default="true" id="21b9cefd-5b12-41e8-bd45-24a1e6186d1a" name="Default Changelist" comment="Change:Delete Token">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +84,7 @@
       <workItem from="1667134480167" duration="10000" />
       <workItem from="1668437077865" duration="1008000" />
       <workItem from="1668456530486" duration="117000" />
-      <workItem from="1668464236304" duration="2481000" />
+      <workItem from="1668464236304" duration="3715000" />
     </task>
     <task id="LOCAL-00001" summary="Change:Delete Token">
       <created>1668437613740</created>
